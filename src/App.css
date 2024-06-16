@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgb(13, 13, 106);
+}
+
+.title {
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+.additional-text {
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    margin-top: 20px;
+}

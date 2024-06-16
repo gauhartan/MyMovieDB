@@ -1,0 +1,171 @@
+body {
+    background-image: url("../../assets/bg-milkyway3.avif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    align-items: center;
+}
+
+.home-link {
+    color: #cccccc;
+}
+
+
+.movie-page {
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+}
+
+.movie-title {
+    text-align: left;
+    font-size: 22px;
+    color: #cccccc;
+}
+
+.movie-poster {
+    border-radius: 15px;
+    width: 35%;
+    padding: 0;
+}
+
+.movie-frame {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+}
+
+/*
+.planet-page {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.planet-details {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.planet-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.planet-info {
+    margin-bottom: 15px;
+    border: 2px solid white;
+    padding: 10px;
+}
+
+.planet-info span {
+    font-weight: bold;
+}
+
+legend {
+    width: auto;
+    margin-right: auto;
+    font-size: 48px;
+}
+
+.sun-info {
+    background-color: rgb(215, 206, 35);
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.mercury-info {
+    background-color: grey;
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.venus-info {
+    background-color: brown;
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.earth-info {
+    background-color: rgb(0, 136, 255);
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.mars-info {
+    background-color: rgb(190, 89, 89);
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.jupiter-info {
+    background-color: rgb(200, 129, 57);
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.saturn-info {
+    background-color: rgb(150, 148, 111);
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.uranus-info {
+    background-color: rgb(123, 199, 199);
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.neptune-info {
+    background-color: rgb(85, 85, 157);
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+}
+
+
+.favorite-btn {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.favorite-btn:hover {
+    background-color: #0056b3;
+}
+
+td {
+    text-align: left;
+}
+
+a {
+    color: #ffffff;
+}
+
+fieldset {
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 4px;
+}
+
+hr {
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 2px;
+}
+*/

@@ -1,0 +1,50 @@
+.sign-in-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("../../assets/bg-milkyway3.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.sign-in-content {
+    text-align: center;
+    color: white;
+}
+
+.input-container {
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.input-container label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: white;
+}
+
+.input-container input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: rgb(198, 8, 141);
+}
+
+.login-button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #b8d622;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+.login-button:hover {
+    background-color: #bfc956;
+    color: white
+}
